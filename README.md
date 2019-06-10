@@ -12,4 +12,4 @@ Oracle-Task Apache Haproxy
 
 # The command for test a https URL of the web application 10 000 times, with 10 concurrent connections.
 
-1. ab -n 10000 -c 10 http://127.0.0.1/ > Output-test-http.log
+1. ab -n 10000 -c 10 http://127.0.0.1/ > Output-test-https.log
